@@ -1,2 +1,2 @@
 ldap:
-  auth-enabled: ${LDAP_AUTH_ENABLED:false}
+  auth-enabled: false
